@@ -1,0 +1,6 @@
+{
+  "name": "TARA BY MABROOR — Fashion Without Borders",
+  "description": "Luxury global fashion flagship celebrating Indian heritage, European contemporary, Middle Eastern modesty, and international streetwear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
